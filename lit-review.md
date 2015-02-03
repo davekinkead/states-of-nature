@@ -3,6 +3,33 @@
 Summaries go here...
 
 
+## Hobbe's & ABM
+
+
+### Co-Operative Punishment Cements Social Cohesion 
+
+Most current attempts to explain the evolution—through individual selection—of pro-social behavior (i.e. behavior that favors the group) that allows for cohesive societies among non related individuals, focus on altruistic punishment as its evolutionary driving force. The main theoretical problem facing this line of research is that in the exercise of altruistic punishment the benefits of punishment are enjoyed collectively while its costs are borne individually. We propose that social cohesion might be achieved by a form of punishment, widely practiced among humans and animals forming bands and engaging in mob beatings, which we call co-operative punishment. This kind of punishment is contingent upon—not independent from—the concurrent participation of other actors. Its costs can be divided among group members in the same way as its benefits are, and it will be favoured by evolution as long as the benefits exceed the costs. We show with computer simulations that co-operative punishment is an evolutionary stable strategy that performs better in evolutionary terms than non-cooperative punishment, and demonstrate the evolvability and sustainability of pro-social behavior in an environment where not necessarily all individuals participate in co-operative punishment. Co-operative punishment together with pro-social behavior produces a self reinforcing system that allows the emergence of a 'Darwinian Leviathan' that strengthens social institutions. 
+
+
+### Emergence and Collapse of Peace with Friend Selection Strategies
+
+A society consisting of agents who can freely choose to attack or not to attack others inevitably evolves into a battling society (a 'war of all against all'). We investigated whether strategies based on C. Schmitt's concept of the political, the distinction of a friend and an enemy, lead to the emergence and collapse of social order. Especially, we propose 'friend selection strategies' (FSSs), one of which we called the 'us-TFT' (tit for tat) strategy, which requires an agent to regard one who did not attack him or his 'friends' as a 'friend'. We carried out evolutionary simulations on an artificial society consisting of FSS agents. As a result, we found that the us-TFT results in a peaceful society with the emergence of an us-TFT community. In addition, we found that the collapse of a peaceful society is triggered by another FSS strategy called a 'coward'. 
+
+
+### On the Scalability of Social Order:
+
+We investigate an algorithmic model based first of all on Luhmann's description of how social order may originate [N. Luhmann, Soziale Systeme, Frankfurt/Main, Suhrkamp, 1984, pp. 148-179]. In a basic 'dyadic' setting, two agents build up expectations during their interaction process. First, we include only two factors into the decision process of an agent, namely, its expectation about the future and its expectation about the other agent's expectation (called 'expectation-expectation' by Luhmann). Simulation experiments of the model reveal that 'social' order appears in the dyadic situation for a wide range of parameter settings, in accordance with Luhmann. If we move from the dyadic situation of two agents to a population of many interacting agents, we observe that the order usually disappears. In our simulation experiments, scalable order appears only for very specific cases, namely, if agents generate expectation- expectations based on the activity of other agents and if there is a mechanism of 'information proliferation', in our case created by observation of others. In a final demonstration we show that our model allows the transition from a more actor oriented perspective of social interaction to a systems-level perspective. This is achieved by deriving an 'activity system' from the microscopic interactions of the agents. Activity systems allow to describe situations (states) on a macroscopic level independent from the underlying population of agents. They also allow to draw conclusions on the scalability of social order. 
+
+### The Leviathan Model: Absolute Dominance, Generalised Distrust, Small Worlds and Other Patterns Emerging from Combining Vanity with Opinion Propagation 
+
+We propose an opinion dynamics model that combines processes of vanity and opinion propagation. The interactions take place between randomly chosen pairs. During an interaction, the agents propagate their opinions about themselves and about other people they know. Moreover, each individual is subject to vanity: if her interlocutor seems to value her highly, then she increases her opinion about this interlocutor. On the contrary she tends to decrease her opinion about those who seem to undervalue her. The combination of these dynamics with the hypothesis that the opinion propagation is more efficient when coming from highly valued individuals, leads to different patterns when varying the parameters. For instance, for some parameters the positive opinion links between individuals generate a small world network. In one of the patterns, absolute dominance of one agent alternates with a state of generalised distrust, where all agents have a very low opinion of all the others (including themselves). We provide some explanations of the mechanisms behind these emergent behaviors and finally propose a discussion about their interest. 
+
+
+### The Origin of Institutions
+
+Institutions, the way they are related to the behaviour of the agents and to the aggregated performance of socio-economic systems, are the topic addressed by this essay. The research is based on a particular concept of a bounded rational agent living in society and by a population based simulation model that describes the processes of social learning. From simple co-ordination problems, where conventions spontaneously emerge, to situations of choice over alternative constitutional rules, simulation was used as a means to test the consistency and extract the implications of the models. Institutions, as solutions to recurring problems of social interaction, are both results and preconditions for social life, unintended outcomes and human devised constraints. In an evolutionary setting no support is found for the deep rooted beliefs about the 'naturally' beneficial outcomes generated by 'invisible-hand' processes or by any alternative Hobbesian meta-agency. 
+
+
 ## Hobbe's & Game Theory
 
 
