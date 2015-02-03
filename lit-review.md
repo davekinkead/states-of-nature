@@ -5,6 +5,12 @@ Summaries go here...
 
 ## Hobbe's & ABM
 
+###Should Hobbes's State Of Nature Be Represented as a Prisoner's Dilemma?
+
+No Abstract
+
+http://onlinelibrary.wiley.com.ezproxy.library.uq.edu.au/doi/10.1111/j.2041-6962.1992.tb01712.x/pdf
+
 ###Why do people co-operate?
 
 Can people be relied upon to be nice to each other? Thomas Hobbes famously did not think so, but his view that rational cooperation does not require that people be nice has never been popular. The debate has continued to simmer since Joseph Butler took up the Hobbist gauntlet in 1725. This article defends the modern version of Hobbism derived largely from game theory against a new school of Butlerians who call themselves behavioral economists. It is agreed that the experimental evidence supports the claim that most people will often make small sacrifices on behalf of others and that a few will sometimes make big sacrifices, but that the larger claims made by contemporary Butlerians lack genuine support. 
