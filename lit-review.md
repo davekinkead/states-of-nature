@@ -5,6 +5,32 @@ Summaries go here...
 
 ## Hobbe's & ABM
 
+###Why do people co-operate?
+
+Can people be relied upon to be nice to each other? Thomas Hobbes famously did not think so, but his view that rational cooperation does not require that people be nice has never been popular. The debate has continued to simmer since Joseph Butler took up the Hobbist gauntlet in 1725. This article defends the modern version of Hobbism derived largely from game theory against a new school of Butlerians who call themselves behavioral economists. It is agreed that the experimental evidence supports the claim that most people will often make small sacrifices on behalf of others and that a few will sometimes make big sacrifices, but that the larger claims made by contemporary Butlerians lack genuine support. 
+
+http://ppe.sagepub.com.ezproxy.library.uq.edu.au/content/5/1/81.full.pdf+html
+
+### Hobbes and Game Theory Revisited: Zero-Sum Games in The State Of Nature
+
+The aim of this paper is to critically review the game-theoretic discussion of Hobbes and to develop a game-theoretic interpretation that gives due attention both to Hobbes's distinction between “moderates” and “dominators” and to what actually initiates conflict in the state of nature, namely, the competition for vital goods. As can be shown, Hobbes's state of nature contains differently structured situations of choice, the game-theoretic representation of which requires the prisoner's dilemma and the assurance game and the so-called assurance dilemma. However, the “state of war” ultimately emerges from situations that cannot be described by any of these games because they represent zero-sum games in which the outcome of mutual cooperation does not exist 
+
+http://onlinelibrary.wiley.com.ezproxy.library.uq.edu.au/doi/10.1111/j.2041-6962.2011.00071.x/pdf
+
+
+### Why We Can’t All Just Get Along: Human Variety and Game Theory in Hobbes’s State of Nature 
+
+No Abstract
+
+http://onlinelibrary.wiley.com.ezproxy.library.uq.edu.au/doi/10.1111/j.2041-6962.2002.tb01906.x/pdf
+
+### Why Hobbes' State Of Nature is Best Modeled By an Assurance Game
+
+In this article, I argue that if one closely follows Hobbes' line of reasoning in Leviathan, in particular his distinction between the second and the third law of nature, and the logic of his contractarian theory, then Hobbes' state of nature is best translated into the language of game theory by an assurance game, and not by a one-shot or iterated prisoner's dilemma game, nor by an assurance dilemma game. Further, I support Hobbes' conclusion that the sovereign must always punish the Foole, and even exclude her from the cooperative framework or take her life, if she defects once society is established, which is best expressed in the language of game theory by a grim strategy. That is, compared to existing game-theoretic interpretations of Hobbes, I argue that the sovereign plays a grim strategy with the citizens once society is established, and not the individuals with one another in the state of nature. 
+
+http://journals.cambridge.org/abstract_S0953820809990069
+
+
 
 ### Co-Operative Punishment Cements Social Cohesion 
 
