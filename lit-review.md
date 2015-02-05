@@ -69,13 +69,14 @@ Institutions, the way they are related to the behaviour of the agents and to the
 The familiar problem of whether Hobbesian men in the state of nature would ever abide by an agreement to obey a Sovereign is a version of the puzzle now known as ‘Prisoner’s Dilemma’. The present paper has the following aims: (I) To establish that the game-theory approach is a legitimate way to study Hobbes. (2) To see whether a proposed ‘solution’ to the paradox of Prisoner’s Dilemma applies to this example. The paradox is that individually rational self-interested calculations sum to an outcome that is suboptimal not only for society but also for every single member of it. The solution is the Supergame which consists of indefinitely repeated plays of the 
 simple Prisoner’s Dilemma game. (3) To compare the results of the above with the similar conclusions reached by a different route by recent arguments in sociobiology. 
 
+http://onlinelibrary.wiley.com.ezproxy.library.uq.edu.au/doi/10.1111/j.1467-9248.1981.tb00500.x/pdf
+
 ## Hobbes's War of All against All
 
 No Abstract, very commonly cited work!
 
 http://www.jstor.org.ezproxy.library.uq.edu.au/stable/pdfplus/2380421.pdf?acceptTC=true
 
-http://onlinelibrary.wiley.com.ezproxy.library.uq.edu.au/doi/10.1111/j.1467-9248.1981.tb00500.x/pdf
 
 ## Game theory, rationality and evolution of the social contract
 
